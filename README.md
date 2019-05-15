@@ -1,5 +1,5 @@
 # HyperNight-Wox-Theme
-A dark, translucent cyberpunk theme for Wox
+A dark, translucent cyberpunk theme for [Wox](https://github.com/Wox-launcher/Wox)
 
 ![HyperNight](HyperNight.png)
 
